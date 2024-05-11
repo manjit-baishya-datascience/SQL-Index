@@ -16,12 +16,13 @@ In this project, I have designed a database for an amusement park named ***Blue 
 2. [**`Chaptered Emporium Library - Management System`**](https://github.com/manjit-baishya-datascience/Chaptered-Emporium-Library-Management-System)<br>
 In this project, I have designed a database system to manage the issuing or borrowing of books from the ***Chaptered Emporium Library.*** It manages the login details of the users, their contact details, the details of the books, its publishers, its current revision and so many other aspects.
 
-3. [**`Homestay - Database Management System`**](https://github.com/manjit-baishya-datascience/Homestay-Database-Management-System)
-***Homestay*** is an app to make reservations or book a homestay for a specific date
+3. [**`Homestay - Database Management System`**](https://github.com/manjit-baishya-datascience/Homestay-Database-Management-System)<br>
+***Homestay*** is an app to make reservations or book a homestay for a specific date. It facilitates on keeping a record of the popular homestays in the area for fast query results. It also loggs the checkin and checkout time and date for the customers, along with the data of the respective owners.
 
-4. [**`E-Challan Ticket - Management System`**](https://github.com/manjit-baishya-datascience/E-Challan-Traffic-Ticket-Database-Management-System)
+4. [**`E-Challan Ticket - Management System`**](https://github.com/manjit-baishya-datascience/E-Challan-Traffic-Ticket-Database-Management-System)<br>
+***E-Challan*** focusses on automatic ticketing system for traffic violations. Data has been collected for all registered vehicles of the coutry and when a violation is found to be made, a ticket is issued to the respective owners. It logs all the tickets issued for each vehicle.
 
-
-5. [**`Cargo Delivery - Database Management System`**](https://github.com/manjit-baishya-datascience/Cargo-Delivery-Database-Management-System)
+5. [**`Cargo Delivery - Database Management System`**](https://github.com/manjit-baishya-datascience/Cargo-Delivery-Database-Management-System)<br>
+***Cargo Delivery*** is a logistic company which delivers goods ordered on online retail stores. This database design logs details of every order olaced, its source and destination and also provides current location updates. It also has details on all the routes, hubs, staff and the location of source and destination.
 
 ### **Data Analysis Projects**

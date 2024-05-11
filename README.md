@@ -10,7 +10,7 @@ This repository contains a collection of SQL projects that demonstrate various s
 ### **Database Design Projects**
 In all the **Database Design Projects**, I have included the main **`.sql`** file, the **`.dbml`** schema file, an **`.svg`** of the schema diagram and revelant **`.png`** image for the schema. Ihave written all the `SQL` code in `SQLite3`. It can however be modified to meet the needs of all other SQL databases.
 
-1. [**`Blue Waters Amusement Park - Management System`**](https://github.com/manjit-baishya-datascience/Blue-Waters-Amusement-Park-Ticket-Management-System)<br>
+1. [**Blue Waters Amusement Park - Management System**](https://github.com/manjit-baishya-datascience/Blue-Waters-Amusement-Park-Ticket-Management-System)<br>
 In this project, I have designed a database for an amusement park named ***Blue Waters*** in order the manage their ticketing system, ride maintainance, staff, reviews and ratings and several others. It logs all data from riders, staff, maintainance and the timestamps for each corresponding event.
 
 2. [**Chaptered Emporium Library - Management System**](https://github.com/manjit-baishya-datascience/Chaptered-Emporium-Library-Management-System)<br>
